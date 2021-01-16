@@ -100,14 +100,13 @@ MonoBehaviour:
   offense: 1
   defense: 0
   itemName: Sword
-  description: A basic sword. +1 Str.
+  description: A basic sword. +1 Strength.
   price: 100
   sellPrice: 50
   itemSprite: {fileID: 6761164967045977113, guid: 22dc842bf7f82ea48a24bddfbf8b6e7f,
     type: 3}
-  amountToChange: 0
   affectHP: 0
   affectMP: 0
-  affectStr: 0
+  amountToChange: 0
   offenseStrength: 1
   defenseStrength: 0

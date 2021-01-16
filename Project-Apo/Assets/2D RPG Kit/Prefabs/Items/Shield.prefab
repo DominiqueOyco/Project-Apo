@@ -100,14 +100,13 @@ MonoBehaviour:
   offense: 0
   defense: 1
   itemName: Shield
-  description: A wooden shield. +2 Def.
+  description: A wooden shield. +2 defense.
   price: 100
   sellPrice: 50
   itemSprite: {fileID: 6099581493293703690, guid: 22dc842bf7f82ea48a24bddfbf8b6e7f,
     type: 3}
-  amountToChange: 0
   affectHP: 0
   affectMP: 0
-  affectStr: 0
+  amountToChange: 0
   offenseStrength: 0
   defenseStrength: 2

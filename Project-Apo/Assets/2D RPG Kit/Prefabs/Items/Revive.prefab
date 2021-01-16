@@ -100,14 +100,13 @@ MonoBehaviour:
   offense: 0
   defense: 0
   itemName: Revive
-  description: Revives with 30 HP
-  price: 50
-  sellPrice: 25
+  description: Revives with 50 HP
+  price: 70
+  sellPrice: 35
   itemSprite: {fileID: -5428206428529569624, guid: 22dc842bf7f82ea48a24bddfbf8b6e7f,
     type: 3}
-  amountToChange: 30
   affectHP: 1
   affectMP: 0
-  affectStr: 0
+  amountToChange: 50
   offenseStrength: 0
   defenseStrength: 0

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2D RPG Kit/Scenes/Demo/Overworld.unity
+- path: Assets/2D RPG Kit/Scenes/System Maps/Credits.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

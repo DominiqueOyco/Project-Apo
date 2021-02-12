@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2D RPG Kit/Scenes/Demo/Kuro Village.unity
+- path: Assets/2D RPG Kit/Scenes/Demo/Entrius Town.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

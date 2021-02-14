@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 241, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 21
+  controlID: 23
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 749, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 20
+  controlID: 212
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 125
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -471,19 +471,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/2D RPG Kit/Scenes
+    - Assets/2D RPG Kit/Scenes/Demo
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/2D RPG Kit/Scenes
+  - Assets/2D RPG Kit/Scenes/Demo
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\IVG ThePurplePir8\Documents\ProjectApo\Project-Apo\Project-Apo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 23}
-    m_SelectedIDs: 14680000
-    m_LastClickedID: 26644
+    m_SelectedIDs: 42680000
+    m_LastClickedID: 26690
     m_ExpandedIDs: 0000000010680000126800001468000016680000186800001a68000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -539,7 +539,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300008c530000b25300000c6f00002c750000a03c0000647d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -564,7 +564,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 240}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 110
@@ -696,9 +696,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.071221, y: -15.424368, z: -276.43726}
+    m_Target: {x: 4.09652, y: 7.161389, z: -402.89536}
     speed: 2
-    m_Value: {x: 11.094282, y: -15.946392, z: -276.3216}
+    m_Value: {x: 4.09652, y: 7.161389, z: -402.89536}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -748,9 +748,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 26.825405
+    m_Target: 19.132439
     speed: 2
-    m_Value: 25.670244
+    m_Value: 20.033968
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -803,10 +803,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 41}
-      m_SelectedIDs: ec740000
-      m_LastClickedID: 29932
-      m_ExpandedIDs: 88f7ffff4af9ffff64fbffff623c0000767400005e750000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: ee710000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 88c9ffff04caffff20d6ffffead6ffff42ebffff64fbffff623c00008e7b00002c8a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

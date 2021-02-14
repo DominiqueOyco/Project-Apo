@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2D RPG Kit/Scenes/Demo/Entrius Town.unity
+- path: Assets/2D RPG Kit/Scenes/Demo/Nera Rosa Town.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

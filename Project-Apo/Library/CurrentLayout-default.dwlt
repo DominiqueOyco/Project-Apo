@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 5}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 241, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 145
+  controlID: 40
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &6
 MonoBehaviour:
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 749, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 144
+  controlID: 180
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 90
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -328,7 +328,7 @@ MonoBehaviour:
     m_CachedPref: -50
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
-  m_Palette: {fileID: 984068774471795621, guid: 8e4cf51ff6092804a9f67f68f3e4ae94,
+  m_Palette: {fileID: 8747604731596447286, guid: 9917580b5e4b9e245ac2aae6f3bff3b6,
     type: 3}
 --- !u!114 &14
 MonoBehaviour:
@@ -482,9 +482,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be680000
-    m_LastClickedID: 26814
-    m_ExpandedIDs: 000000009468000096680000986800009a6800009c6800009e68000000ca9a3b
+    m_SelectedIDs: 74700000
+    m_LastClickedID: 28788
+    m_ExpandedIDs: 00000000cc640000ce640000d0640000d2640000d4640000d664000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009468000096680000986800009a6800009c6800009e680000
+    m_ExpandedIDs: 00000000cc640000ce640000d0640000d2640000d4640000d6640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -617,10 +617,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -169
-    m_HBaseRangeMax: 169
-    m_VBaseRangeMin: -95
-    m_VBaseRangeMax: 95
+    m_HBaseRangeMin: -187.5
+    m_HBaseRangeMax: 187.5
+    m_VBaseRangeMin: -105.5
+    m_VBaseRangeMax: 105.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -637,11 +637,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1275
-      height: 190
+      height: 211
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 637.5, y: 95}
+    m_Translation: {x: 637.5, y: 105.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -649,9 +649,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -637.5
-      y: -95
+      y: -105.5
       width: 1275
-      height: 190
+      height: 211
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1275, y: 211}
@@ -696,9 +696,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 31.846117, y: 23.015242, z: -650.7701}
+    m_Target: {x: 14.21191, y: 28.452435, z: -677.60504}
     speed: 2
-    m_Value: {x: 31.252316, y: 22.988403, z: -650.59375}
+    m_Value: {x: 14.222702, y: 28.4218, z: -677.5904}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -748,9 +748,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 40.978596
+    m_Target: 3.8858771
     speed: 2
-    m_Value: 39.213966
+    m_Value: 4.068981
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -804,9 +804,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ae940000
-      m_LastClickedID: 38062
-      m_ExpandedIDs: 345dffffac5effffe45fffffc260ffffc66bffff986dffffbe6effff806fffff4470ffff1672ffffb872ffffac74ffff0875ffff2276ffff4477ffffc2baffffb2c1ffff28c3ffffecc3ffff7ac5fffff2edffff64fbffff003c000030770000a27c0000c87e0000d47e0000267f00006e7f0000b6800000828a0000968d0000bc8e0000349200005693000086940000
+      m_SelectedIDs: d4700000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 08f8ffff40f9ffff64fbffff7c710000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

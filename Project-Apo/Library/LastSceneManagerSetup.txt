@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/2D RPG Kit/Scenes/Demo/Mt Aguila 1.unity
+- path: Assets/2D RPG Kit/Scenes/Demo/Platino Region.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
